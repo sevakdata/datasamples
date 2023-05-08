@@ -2,4 +2,4 @@
 
 **Sevak** is an intelligent multilingual codemix chatbot created to assist people in the Railways, Judiciary and healthcare domains. The cantbot exists in English, Hindi, Bengali, Tamil and Telugu languages (and their codemix variants).
 
-The repository contains sample conversations created using the dialog flow implemented in the sevak project. The conversations are generated applying variations to conversations obtained via human interaction with the chatbot.
+The repository contains sample conversations created using the dialog flow implemented in the sevak project. The conversations are generated applying variations to conversations obtained via human interaction with the chatbot. Some of actual human conversations are also added to the samples after removing any personal information.
